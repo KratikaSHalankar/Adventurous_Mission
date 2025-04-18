@@ -48,6 +48,7 @@ laugh.mp3
 
 
 **How to Play**
+
 1.Run the Python script:
 
 2.python haunted_mansion.py
