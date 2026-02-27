@@ -2,12 +2,12 @@
 Text-based haunted house adventure game with puzzles and sound effects (Python mini-project).
 <br>
 
-**Overview**
+**Overview:**
 <br>
 This is a simple text-based adventure game where you explore the mysterious Ravenwood Mansion. Navigate through different rooms, solve puzzles, and try to escape! This project was created as a mini Python project to practice programming concepts like conditional statements, functions, and user input handling.
 <br>
 
-**Features**
+**Features:**
 <br>
 1.Interactive text-based gameplay 🎮
 <br>
@@ -20,14 +20,14 @@ This is a simple text-based adventure game where you explore the mysterious Rave
 5.Atmospheric storytelling with spooky elements 👻
 <br>
 
-**Requirements**
+**Requirements:**
 <br>
 1.Python 3.x
 <br>
 2.playsound library(to add sound effects into the code)
 <br>
 
-**Installation**
+**Installation:**
 <br>
 1.download the files
 <br>
@@ -48,7 +48,7 @@ scream.mp3
 laugh.mp3
 <br>
 
-**How to Play**
+**How to Play:**
 <br>
 1.Run the Python script:
 <br>
@@ -57,7 +57,7 @@ laugh.mp3
 3.Follow the prompts and make choices by typing the corresponding number. Try to escape the mansion alive!
 <br>
 
-**What I Learned**
+**What I Learned:**
 <br>
 1.Working with functions in Python.
 <br>
