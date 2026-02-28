@@ -9,29 +9,29 @@ This is a simple text-based adventure game where you explore the mysterious Rave
 
 **Features:**
 <br>
-1.Interactive text-based gameplay 🎮
+1.Interactive text-based gameplay 🎮.
 <br>
-2.Multiple paths and endings based on your choices 🔀
+2.Multiple paths and endings based on your choices 🔀.
 <br>
-3.Integrated sound effects for horror experience 🔊
+3.Integrated sound effects for horror experience 🔊.
 <br>
-4.Various puzzles and riddles to solve 🧩
+4.Various puzzles and riddles to solve 🧩.
 <br>
-5.Atmospheric storytelling with spooky elements 👻
+5.Atmospheric storytelling with spooky elements 👻.
 <br>
 
 **Requirements:**
 <br>
-1.Python 3.x
+1.Python 3.x.
 <br>
-2.playsound library(to add sound effects into the code)
+2.playsound library(to add sound effects into the code).
 <br>
 
 **Installation:**
 <br>
-1.download the files
+1.download the files.
 <br>
-2.Install the required library: *pip install playsound*
+2.Install the required library: *pip install playsound*.
 <br>
 3.Place your sound files in the same directory (or update the file paths in the code).
 <br>
@@ -52,7 +52,7 @@ laugh.mp3
 <br>
 1.Run the Python script:
 <br>
-2.python haunted_mansion.py
+2.python haunted_mansion.py.
 <br>
 3.Follow the prompts and make choices by typing the corresponding number. Try to escape the mansion alive!
 <br>
